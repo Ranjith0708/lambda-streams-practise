@@ -1,4 +1,4 @@
-package Practise;
+package LambdaExpressions;
 
 @FunctionalInterface
  interface Cab{
